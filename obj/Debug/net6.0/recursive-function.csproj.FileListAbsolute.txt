@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\bin\Debug\net6.0\recursive-function.exe
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\bin\Debug\net6.0\recursive-function.deps.json
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\bin\Debug\net6.0\recursive-function.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\bin\Debug\net6.0\recursive-function.dll
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\bin\Debug\net6.0\recursive-function.pdb
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.dll
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\refint\recursive-function.dll
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.pdb
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\recursive-function.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\recursive-function\recursive-function\obj\Debug\net6.0\ref\recursive-function.dll
