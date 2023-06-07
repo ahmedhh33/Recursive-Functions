@@ -6,7 +6,10 @@
         public static void Main(string[] args)
         {
 
-            factorial();
+
+            power();
+
+            //factorial();
 
 
 
@@ -46,6 +49,16 @@
             }
 
             Console.WriteLine(" The factorial of " + Num + "! = " + fact);
+        }
+        static void power()
+        {
+            Console.WriteLine("Enter the number that you want to calculte it is power :");
+            double Num = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the power number :");
+            double pow = double.Parse(Console.ReadLine());
+
+            double result = Math.Pow(Num, pow);
+            Console.WriteLine(" The power of " + Num + " ^ "+ pow +" = " + result);
         }
 
     }
