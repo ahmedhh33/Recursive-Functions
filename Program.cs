@@ -6,12 +6,19 @@
         public static void Main(string[] args)
         {
 
+            
+            Console.WriteLine("Enter a number: ");
+            int n = int.Parse(Console.ReadLine());
+            int sumdigit= Sum(n);
+            Console.WriteLine("The sum of the digits of the number "+ n+ " is " +sumdigit);
 
-            power();
+
+            //power();
 
             //factorial();
 
-
+            //int re = Fib(3);
+            //Console.WriteLine(re);
 
             /* Console.WriteLine("Enter the nth Fibonacci number: ");
             int n = int.Parse(Console.ReadLine());
@@ -24,7 +31,7 @@
                 Console.Write("{0} ", Fib(i));
             }
             Console.WriteLine();*/
-            
+
         }
         public static int Fib(int n)
         {
@@ -59,6 +66,17 @@
 
             double result = Math.Pow(Num, pow);
             Console.WriteLine(" The power of " + Num + " ^ "+ pow +" = " + result);
+        }
+        public static int Sum(int n)
+        {
+            if (n < 10)
+            {
+                return n;
+            }
+            else
+            {
+                return n % 10 + Sum(n / 10);
+            }
         }
 
     }
