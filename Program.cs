@@ -12,7 +12,8 @@
             int sumdigit= Sum(n);
             Console.WriteLine("The sum of the digits of the number "+ n+ " is " +sumdigit);
 
-
+            //int reR = powerRecursion(3, 6);
+            //Console.WriteLine(reR);
             //power();
 
             //factorial();
@@ -67,6 +68,20 @@
             double result = Math.Pow(Num, pow);
             Console.WriteLine(" The power of " + Num + " ^ "+ pow +" = " + result);
         }
+
+        static int powerRecursion(int number, int pow)
+        {
+            if (pow == 0)
+            {
+                return 1;
+            }
+            if (pow == 1)
+            {
+                return number;
+            }
+            return number * powerRecursion(number, pow - 1);
+
+        }
         public static int Sum(int n)
         {
             if (n < 10)
@@ -78,6 +93,7 @@
                 return n % 10 + Sum(n / 10);
             }
         }
+
 
     }
 }
